@@ -5,8 +5,15 @@ Practice project for frontend + backend development.
 TODO
 
 ## TODO
-- [ ] Convert to Typescript
+- [x] Use yarn instead of npm
+- [x] Upgrade FE packages
+- [ ] Upgrade BE packages
+- [ ] Convert to React class components to functional components
+- [ ] Convert FE to Typescript
+- [ ] Convert BE to Typescript
 - [ ] Deploy to GCP
+- [ ] Figure out CSS Styles
+
 
 ## Appendix
 Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
