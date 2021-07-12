@@ -7,6 +7,7 @@ TODO
 ## TODO
 - [x] Use yarn instead of npm
 - [x] Upgrade FE packages
+- [ ] Move off of fork
 - [ ] Upgrade BE packages
 - [ ] Convert to React class components to functional components
 - [ ] Convert FE to Typescript
